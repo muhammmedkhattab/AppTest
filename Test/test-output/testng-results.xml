@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="11175" started-at="2018-07-26T15:28:24Z" finished-at="2018-07-26T15:28:35Z">
+    <groups>
+    </groups>
+    <test name="Testcase" duration-ms="11175" started-at="2018-07-26T15:28:24Z" finished-at="2018-07-26T15:28:35Z">
+      <class name="com.khattab.maven.Testcases">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.khattab.maven.Testcases@91161c7]" name="beforeTest" is-config="true" duration-ms="6997" started-at="2018-07-26T15:28:24Z" finished-at="2018-07-26T15:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:com.khattab.maven.Testcases@91161c7]" name="Testcase1" duration-ms="15" started-at="2018-07-26T15:28:31Z" finished-at="2018-07-26T15:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase2()[pri:0, instance:com.khattab.maven.Testcases@91161c7]" name="Testcase2" duration-ms="1799" started-at="2018-07-26T15:28:31Z" finished-at="2018-07-26T15:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.khattab.maven.Testcases@91161c7]" name="afterTest" is-config="true" duration-ms="2321" started-at="2018-07-26T15:28:33Z" finished-at="2018-07-26T15:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.khattab.maven.Testcases -->
+    </test> <!-- Testcase -->
+  </suite> <!-- TestSuite -->
+</testng-results>

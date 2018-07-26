@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]">
+  <test thread-count="5" name="Testcase(failed)">
+    <classes>
+      <class name="com.khattab.maven.Testcases">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="Testcase2"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.khattab.maven.Testcases -->
+    </classes>
+  </test> <!-- Testcase(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
